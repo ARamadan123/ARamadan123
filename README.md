@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ARamadan123
 - 👀 I’m interested in short-term projects that can help start up my career.
-- 🌱 I’m currently in my sophomore year of my computer engineering degree.
+- 🌱 I’m currently in my junior year of my computer engineering degree.
 - 💞️ I’m looking to collaborate on projects that involve data structures in C.
 - 📫 Email: abdulrahmanramadan3@gmail.com, abrama@iu.edu
 
