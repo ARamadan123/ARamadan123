@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ARamadan123
-- 👀 I’m interested in short-term projects that can help start up my career.
 - 🌱 I’m currently in my senior year of my computer engineering degree.
 - 📫 Email: abdulrahmanramadan3@gmail.com, abrama@iu.edu
 
