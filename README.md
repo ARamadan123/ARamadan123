@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ARamadan123
-- 🌱 I’m currently in my senior year of my computer engineering degree.
-- 📫 Email: abdulrahmanramadan3@gmail.com, abrama@iu.edu
+- 📫 Email: abdelr.ramadan@gmail.com
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
